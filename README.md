@@ -1,5 +1,5 @@
 ![GitHub release (with filter)](https://img.shields.io/github/v/release/hwguyturnsw/KeeThemes?label=Latest-Release)
-![GitHub all releases](https://img.shields.io/github/downloads/hwguyturnsw/KeeThemes/total?label=All-Downloads)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/hwguyturnsw/KeeThemes/v0.0.1/total)
 
 # KeeThemes
 
